@@ -2,7 +2,7 @@
 
 # 🌸✨ Mikuware Injector & Kernel ✨🌸
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=200&section=header&text=Mikuware%20%E2%9C%A8&fontSize=90&fontAlign=50&fontAlignY=38&desc=Super%20Cool%20%26%20Delicious%20Injection%20Framework%20%28%EF%BD%A1%E2%80%A2%CC%80%E1%B4%97-%EF%BD%A4%EF%BD%A1%29&descSize=20&descAlign=50&descAlignY=65" />
+<img src="https://raw.githubusercontent.com/RealSyferX/Mikuware-Injector/refs/heads/main/animeclub_hacker_v2%20(1).png" />
 
 [![C++](https://img.shields.io/badge/C++-17-ffb6c1.svg?style=for-the-badge&logo=c%2B%2B)](https://isocpp.org/)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-ffc0cb.svg?style=for-the-badge&logo=windows)](https://www.microsoft.com/)
@@ -58,7 +58,7 @@ This project is **Closed Source**, but you can still enjoy all the sweet feature
 ### Prerequisites 🛠️
 - Windows 10 or Windows 11
 - Administrator Privileges (We need ring-0 access! 🛡️)
-- A sweet tooth for causing a little chaos! �
+- A sweet tooth for causing a little chaos!
 
 ### How to Use 📝
 1. **Download the Release:**
@@ -86,3 +86,4 @@ This project is for **Educational Purposes Only**! I am not responsible for any 
 <div align="center">
 Made with 💖 and a lot of unity! (´｡• ᵕ •｡`)
 </div>
+
