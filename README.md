@@ -73,11 +73,6 @@ This project is **Closed Source**, but you can still enjoy all the sweet feature
 
 ---
 
-## 💖 Screenshots (Coming Soon!) 📸
-*(Imagine a super aesthetic, blue-themed dark mode UI here!)*
-
----
-
 ## 📜 Disclaimer (O_O)
 This project is for **Educational Purposes Only**! I am not responsible for any bans, blue screens, or spontaneous transforming into a magical girl that may occur from using this software. Please use responsibly! 🌸
 
@@ -86,4 +81,5 @@ This project is for **Educational Purposes Only**! I am not responsible for any 
 <div align="center">
 Made with 💖 and a lot of unity! (´｡• ᵕ •｡`)
 </div>
+
 
