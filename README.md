@@ -45,8 +45,7 @@ Why use Cheat Engine when you have Mikuware?
 ### 🛑 Aggressive Anti-Tampering (Process Killer 🗡️)
 Don't let anyone peek at your secrets! Mikuware actively scans for reverse-engineering tools (like CE or debuggers) and **instantly terminates** them. No mercy! (ง •̀_•́)ง
 
-### 🎨 Stunning ImGui & HTML Interface
-- Features a delicious custom HTML-based UI (`injector_ui.html`) embedded directly into the executable!
+### 🎨 Stunning ImGui Interface
 - Multi-threaded, butter-smooth **ImGui Overlay** for in-game perfection.
 
 ---
